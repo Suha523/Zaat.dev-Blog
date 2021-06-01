@@ -1,5 +1,5 @@
 module.exports = {
-  // pathPrefix: "/Zaat.dev-Blog",
+  pathPrefix: "/Zaat.dev-Blog",
   siteMetadata: {
     title: `Zaat.dev Blog`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
